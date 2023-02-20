@@ -1,0 +1,1 @@
+import{j as a,a as e,L as l}from"./index.js";const o=()=>a("div",{className:"not_Found",children:["Page Introuvable !!",a("h3",{children:["Aller a la page ",e(l,{to:"",children:"Acceuil"})," "]})]});export{o as default};

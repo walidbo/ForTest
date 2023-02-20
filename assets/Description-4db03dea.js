@@ -1,0 +1,1 @@
+import{j as i,a as e}from"./index.js";const r=()=>i("div",{className:"description",id:"description",children:[e("span",{children:"BONJOUR JE SUIS"}),e("h1",{children:"WALID BEN OTHMAN"}),e("h3",{children:"Software Engineer"}),e("button",{children:"Engagez Moi"})]});export{r as default};
